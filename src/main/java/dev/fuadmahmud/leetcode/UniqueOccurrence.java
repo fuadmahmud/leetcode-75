@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
 
-public class UniqueOccurence {
+public class UniqueOccurrence {
     public boolean uniqueOccurrences(int[] arr) {
         HashMap<Integer, Integer> mp = new HashMap<>();
         Set<Integer> set = new HashSet<>();
